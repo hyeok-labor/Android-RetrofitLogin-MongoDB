@@ -1,0 +1,2 @@
+rootProject.name='MultiSocketExam'
+include ':app'
